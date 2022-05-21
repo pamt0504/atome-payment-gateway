@@ -3,7 +3,7 @@
 The plugin will make it easier to integrate Atome payments.
 
 ## Process flow
-![Flow]()
+![Flow](https://raw.githubusercontent.com/pamt0504/atome-payment-gateway/main/atome_open_api_flowchart.jpeg)
 
 ## Installation
 The first, Atome partner must be successfully registered.
