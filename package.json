@@ -1,0 +1,33 @@
+{
+    "name": "atome-payment-gateway-test",
+    "version": "1.0.4",
+    "description": "Payment with atome",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "files": [
+        "lib"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:pamt0504/atome-payment-gateway.git"
+    },
+    "keywords": [
+        "atome",
+        "atome wallet",
+        "atome payment",
+        "atome node",
+        "atome sdk",
+        "atome api",
+        "atome gateway",
+        "gateway"
+    ],
+    "author": "Devtify - Thao Pham",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    }
+}
